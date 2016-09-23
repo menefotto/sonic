@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "T6nAYVXzIqPt6JaSCMHHHBQDLnc=",
+			"path": "github.com/boltdb/bolt",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "UMT8PTIuCEwm/7eLt6gxP3XqfSU=",
+			"path": "github.com/golang/snappy",
+			"revision": "d9eb7a3d35ec988b8585d4a0068e462c27d28380",
+			"revisionTime": "2016-05-29T05:00:41Z"
+		},
+		{
+			"checksumSHA1": "d/WGg1nIlMApqKK57J+pqq4IcrM=",
+			"path": "github.com/remyoudompheng/go-liblzma",
+			"revision": "e74be71c3c60411922b5424e875d7692ea638b78",
+			"revisionTime": "2016-01-01T22:24:25Z",
+			"tree": true
+		},
+		{
+			"checksumSHA1": "oPIydY1lGw52tBFFOW9jnsBVO7M=",
+			"path": "github.com/spf13/pflag",
+			"revision": "c7e63cf4530bcd3ba943729cee0efeff2ebea63f",
+			"revisionTime": "2016-09-15T15:31:01Z"
+		},
+		{
+			"checksumSHA1": "AHhuIKGGOtr2wVEjLddGdyTzifA=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "a646d33e2ee3172a661fc09bca23bb4889a41bc8",
+			"revisionTime": "2016-07-15T05:43:45Z"
+		}
+	],
+	"rootPath": "github.com/sonic"
+}

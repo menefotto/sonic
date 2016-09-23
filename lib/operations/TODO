@@ -1,0 +1,12 @@
+- Fix suffix query doesn't work at all! 				-DONE
+
+- Install should check if the package is local first and then, download 
+  it if is not local. It should be downloaded first on tmp which since 
+  I am deploying a new distro must be a tmpfs, once installed a background 
+  coorutine shuold be moving the file to a permanent location on 
+  /var/cache/sonic/packages or whatever is set on the config file. 	-DONE
+
+- Perform sanity checks on the downloaded packages,md5 ,sha		-DONE
+
+- Future TODO implements pgp sign verification				-DONE
+

@@ -1,0 +1,16 @@
+./usr/bin
+./usr/bin/i3lock
+./usr/share
+./usr/share/licenses
+./usr/share/licenses/i3lock
+./usr/share/licenses/i3lock/LICENSE
+./usr/share/man
+./usr/share/man/man1
+./usr/share/man/man1/i3lock.1.gz
+./.BUILDINFO
+./tail.txt
+./etc
+./etc/pam.d
+./etc/pam.d/i3lock
+./.MTREE
+./.PKGINFO

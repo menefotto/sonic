@@ -1,0 +1,6 @@
+Transaction to do:
+
+First transaction implementation looks ok. 				-DONE
+Increase the log message chan drammatically.				-DONE
+Add exstensive testing for all cases.					-ALMOST
+Hit 100% test coverage

@@ -1,0 +1,2 @@
+In case no input is given the parser should output the usage message, right now
+it doesn't.

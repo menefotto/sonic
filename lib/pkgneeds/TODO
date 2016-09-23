@@ -1,0 +1,8 @@
+Dependecy resolution is in early stages, now works "it is slow" like the algo 
+itself however, however fast enogh, need to introduce more benchmark tests. 
+Anyway the reverse engineering, is not done yet, I haven't implemented the 
+"PROVIDES" thing, and the code is not really tested like it should be. Need to 
+do more checking on it.
+Now it is actually discarding version dependecies, which is a temporary solution
+of course.
+

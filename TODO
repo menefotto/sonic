@@ -1,0 +1,20 @@
+TODO:
+
+- Implement package-wide the use of package errors.			-DONE
+- Split package in command-line pkg and library.			-DONE
+- Thinking about making it, a server instead of a normal library.	-NOPE
+- Improve test coverage to > 90%					-DONE
+- Remove Graph implemented as store added fast compression		-DONE
+- Pkginstall better organization					-DONE
+- Implement transactions, database altering ops must be atomic		-DONE
+
+- Add all transactions test conditions
+- Implement real pkg install remove and sync. Add transactions.
+- Finish implementing transactions. Add all the test conditions.
+- Add colored output for warnings and errors shown to users.
+
+BUGS:
+
+- Weird buf in gbackends on Close when wrapped with berrros		-DONE
+- Fix reidirection > /dev/null to not panic				-DONE
+- Deleted . files from tar unpacking installation on filesystem 	-DONE
